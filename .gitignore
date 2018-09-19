@@ -75,3 +75,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+LevelBlockout/Content/StarterContent/
+LevelBlockout/Saved/Backup/ThirdPersonExampleMap_2018-09-19-12-09-05.umap
+LevelBlockout/Saved/Backup/
